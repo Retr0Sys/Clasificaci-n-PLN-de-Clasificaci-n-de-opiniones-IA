@@ -29,7 +29,7 @@ El modelo se entrena para establecer la relación probabilística entre el conte
 
 ### Variables Clave y Metodología
 
-  * **Variable Independiente:** **`text`** (Contenido textual a analizar).
+  * **Variable Independiente:** **`tweet`** (Contenido textual a analizar).
   * **Variable Dependiente (Objetivo):** **`etiqueta`** (Clasificación binaria de la opinión: 1 = positivo, 0 = negativo).
   * **Vectorización:** Se aplica un método de vectorización sobre la variable `declaracion` para transformar el contenido textual en una representación numérica que sea procesable por el algoritmo de *Machine Learning*.
   * **Validación Interna:** Para evaluar el rendimiento interno, el conjunto de datos de entrenamiento es dividido mediante la técnica de **`train_test_split`**. La función **`accuracy_score`** se utiliza para comprobar el porcentaje de acierto del modelo en el conjunto de prueba.
