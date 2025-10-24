@@ -2,7 +2,7 @@
 ## Modelo de Regresión Logística para la Clasificación Binaria de Opiniones a partir de Texto (LogisticRegression)
 
 ---
-Este proyecto presenta la implementación de un modelo de **Aprendizaje Supervisado** (**Regresión Logística**) desarrollado en Python para la **clasificación binaria de opiniones** a partir de texto. El objetivo es clasificar los mensajes de texto como **positivo (1)** o **negativo (0)**, mediante la identificación de patrones lingüísticos y características textuales correlacionadas con la **polaridad de la opinión**.
+Este proyecto presenta la implementación de un modelo de **Aprendizaje Supervisado** (**Regresión Logística**) desarrollado en Python para la **clasificación binaria de opiniones** a partir de texto. El objetivo es clasificar los mensajes de texto como **positivo (1)** o **negativo (0)**, mediante la identificación de patrones lingüísticos y características textuales correlacionadas con el de la opinión**.
 ---
 
 <div align="center">
