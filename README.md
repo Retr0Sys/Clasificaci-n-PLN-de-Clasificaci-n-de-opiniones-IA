@@ -44,3 +44,7 @@ La robustez del modelo se comprueba mediante la aplicación a un conjunto de dat
 
 1.  **Generación de Predicciones:** El modelo entrenado se aplica al conjunto de datos de prueba externo (`dataset_test_5_sin_etiqueta.csv`), que carece de la columna objetivo (`etiqueta`). El modelo genera y asigna los valores predictivos a esta columna.
 2.  **Entrega Final:** El archivo resultante (`submission.csv`), que contiene el **ID** y la columna objetivo predicha (`etiqueta`), es exportado para su validación en la plataforma de *ranking*, donde se mide la eficiencia del modelo frente a los valores reales.
+
+## Captura de uso
+<img width="525" height="326" alt="image" src="https://github.com/user-attachments/assets/7c3ca717-2e4e-47ec-b66f-c85fa07292dd" />
+
