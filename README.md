@@ -5,8 +5,9 @@
 Este proyecto presenta la implementación de un modelo de **Aprendizaje Supervisado** (**Regresión Logística**) desarrollado en Python para la **clasificación binaria de opiniones** a partir de texto. El objetivo es clasificar los mensajes de texto como **positivo (1)** o **negativo (0)**, mediante la identificación de patrones lingüísticos y características textuales correlacionadas con la **polaridad de la opinión**.
 ---
 
-![ai-bot](https://github.com/user-attachments/assets/130cddfa-9be1-4059-acbe-4849671d4cea)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/130cddfa-9be1-4059-acbe-4849671d4cea" alt="ai-bot" width="650">
+</div>
 
 ---
 
